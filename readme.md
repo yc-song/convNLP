@@ -1,1 +1,2 @@
-1. json_formatting.py converts the given kakao chat file into appropriate JSON format for GPT fine-tuning
+1. kakao/json_formatting.py converts the given kakao chat file into appropriate JSON format for GPT fine-tuning
+2. kakao/format_validation.py validates the given json file from 1 is appropriate for GPT fine-tuning
